@@ -1,0 +1,44 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "leo",
+      "url": "https://indiaglitz-media.s3.amazonaws.com/telugu/home/leo-movie-review-1.jpg",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "2",
+      "caption": "salar",
+      "url": "https://www.cinejosh.com/newsimg/newsmainimg/there-are-many-reasons-being-spread-about-the-postponement-of-salar_b_0309230728.jpg",
+      "link": "https://www.youtube.com/embed/Joo_jE8kMDg"
+    }
+  ],
+  "history": [
+    {
+      "caption": "leo",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timestamp": "12/23/2023, 11:39:58 AM",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "salar",
+      "allvideos": [
+        {
+          "id": "1",
+          "caption": "leo",
+          "url": "https://indiaglitz-media.s3.amazonaws.com/telugu/home/leo-movie-review-1.jpg",
+          "link": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "2",
+          "caption": "salar",
+          "url": "https://www.cinejosh.com/newsimg/newsmainimg/there-are-many-reasons-being-spread-about-the-postponement-of-salar_b_0309230728.jpg",
+          "link": "https://www.youtube.com/embed/Joo_jE8kMDg"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
